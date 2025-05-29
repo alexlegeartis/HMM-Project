@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.4)  29 MAY 2025 18:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.4)  29 MAY 2025 22:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1073,7 +1073,7 @@ thkerncmss.
 [3
 
 ]
-<HMMGraph.pdf, id=139, 533.03505pt x 411.03746pt>
+<HMMGraph.pdf, id=151, 533.03505pt x 411.03746pt>
 File: HMMGraph.pdf Graphic file (type pdf)
 <use HMMGraph.pdf>
 Package pdftex.def Info: HMMGraph.pdf  used on input line 55.
@@ -1139,6 +1139,10 @@ Package pdftex.def Info: HMMGraph.pdf  used on input line 55.
 [18
 
 ]
+
+[19
+
+]
 \tf@nav=\write6
 \openout6 = `hmm.nav'.
 
@@ -1153,21 +1157,14 @@ Package pdftex.def Info: HMMGraph.pdf  used on input line 55.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-Package rerunfilecheck Warning: File `hmm.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `hmm.out':
-(rerunfilecheck)             Before: 46A77ECDA31B043AF7F88953E3D64F22;512
-(rerunfilecheck)             After:  C37EE5B068D4FB0A15F3B11C464C0179;674.
+Package rerunfilecheck Info: File `hmm.out' has not changed.
+(rerunfilecheck)             Checksum: 420142FC968AA0E6116C7DA78BC73379;848.
  ) 
 Here is how much of TeX's memory you used:
- 25167 strings out of 473522
- 506289 string characters out of 5715094
+ 25182 strings out of 473522
+ 506422 string characters out of 5715094
  860403 words of memory out of 5000000
- 47850 multiletter control sequences out of 15000+600000
+ 47862 multiletter control sequences out of 15000+600000
  571632 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,407b,815s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1188,9 +1185,9 @@ fonts/cm/cmssi8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmsy10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on hmm.pdf (18 pages, 299122 bytes).
+Output written on hmm.pdf (19 pages, 306515 bytes).
 PDF statistics:
- 676 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 252 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 714 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 268 words of extra memory for PDF output out of 10000 (max. 10000000)
 

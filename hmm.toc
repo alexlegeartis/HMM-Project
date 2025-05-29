@@ -2,3 +2,4 @@
 \beamer@sectionintoc {2}{Baum-Welch Algorithm}{6}{0}{2}
 \beamer@sectionintoc {3}{Viterbi Algorithm}{13}{0}{3}
 \beamer@sectionintoc {4}{Part of speech tagging}{16}{0}{4}
+\beamer@sectionintoc {5}{Stock weather forecasting}{18}{0}{5}
