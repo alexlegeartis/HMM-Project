@@ -4,6 +4,9 @@
 \usepackage{amssymb}
 \usepackage{graphicx}
 \usepackage{tikz}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{}
 \DeclareMathOperator*{\argmax}{arg\,max}
 
 \usetheme{Madrid}
@@ -40,6 +43,15 @@
             \item Emission probabilities for observations
         \end{itemize}
     \end{itemize}
+\end{frame}
+%-------------------------------------------------------------------
+\begin{frame}{Weather example}
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.6\textwidth]{HMMGraph.pdf}
+        %\caption{}
+    \end{figure}
+    Weather prediction. Sunny and Rainy are hidden states, while the activities are observations.
 \end{frame}
 %-------------------------------------------------------------------
 \begin{frame}{Mathematical Definition}
@@ -204,6 +216,45 @@
     \end{itemize}
 \end{frame}
 %----------------------------------------------------------------------------------------------------
+\section{Part of speech tagging}
+\begin{frame}{NLP: Part-of-speech tagging}
+    Brown corpus: 1M tagged words, 15 categories.
+    Universal tagset:
+    \begin{table}[h]
+        \centering
+        \begin{tabular}{lll}
+            \toprule
+            \textbf{Tag} & \textbf{Meaning} & \textbf{Examples} \\
+            \midrule
+            NOUN & noun & dog, time \\
+            VERB & verb & run, is \\
+            ADJ & adjective & blue, big \\
+            ADV & adverb & quickly, very \\
+            PRON & pronoun & I, you, they \\
+            DET & determinative & the, a, some \\
+            ADP & preposition & in, on, under \\
+            NUM & numeral & one, two \\
+            CONJ & conjunction & and, but \\
+            PRT & particle & up, not \\
+            X & unknown & foreign words, typos \\
+            . & punctuation & . ! ? , \\
+            \bottomrule
+        \end{tabular}
+    \end{table}
+\end{frame}
+%----------------------------------------------------------------------------------------------------
+\begin{frame}{Supervised vs unsupervised}
+
+Supervised: 
+\begin{itemize}
+    \item maximum likelihood estimation for training and Viterbi for predicting 
+    \item all train dataset, 1.6 sec training, 1.5 min predicting: 73\% test accuracy
+\end{itemize}
+Unsupervised: 50 sentences with tagging (Supervised), 950 unsupervised.
+
+\end{frame}
+%----------------------------------------------------------------------------------------------------
+
 \begin{frame}{Thank You!}
     \begin{center}
         Questions?
