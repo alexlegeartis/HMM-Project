@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.4)  30 MAY 2025 11:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.4)  30 MAY 2025 11:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1073,7 +1073,7 @@ thkerncmss.
 [3
 
 ]
-<HMMGraph.pdf, id=151, 533.03505pt x 411.03746pt>
+<HMMGraph.pdf, id=145, 533.03505pt x 411.03746pt>
 File: HMMGraph.pdf Graphic file (type pdf)
 <use HMMGraph.pdf>
 Package pdftex.def Info: HMMGraph.pdf  used on input line 55.
@@ -1153,52 +1153,37 @@ Package pdftex.def Info: HMMGraph.pdf  used on input line 55.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-Package rerunfilecheck Warning: File `hmm.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `hmm.out':
-(rerunfilecheck)             Before: 420142FC968AA0E6116C7DA78BC73379;848
-(rerunfilecheck)             After:  C37EE5B068D4FB0A15F3B11C464C0179;674.
+Package rerunfilecheck Info: File `hmm.out' has not changed.
+(rerunfilecheck)             Checksum: C37EE5B068D4FB0A15F3B11C464C0179;674.
  ) 
 Here is how much of TeX's memory you used:
- 25181 strings out of 473522
- 506415 string characters out of 5715094
+ 25173 strings out of 473522
+ 506341 string characters out of 5715094
  860403 words of memory out of 5000000
- 47862 multiletter control sequences out of 15000+600000
+ 47856 multiletter control sequences out of 15000+600000
  571632 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,407b,815s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{Navigation19} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Outline0.5} has been referenced but does not exist,
- replaced by a fixed one
-
-<C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cme
-x10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmmi10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmmi12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Alex/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Alex/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Alex/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Alex/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/User
-s/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb
-><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-ssi12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmssi8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on hmm.pdf (18 pages, 300956 bytes).
+<C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mex10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Alex/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Alex/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Alex/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Alex/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Us
+ers/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.p
+fb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmssi12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmssi8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on hmm.pdf (18 pages, 300103 bytes).
 PDF statistics:
- 687 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 268 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 680 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 260 words of extra memory for PDF output out of 10000 (max. 10000000)
 
