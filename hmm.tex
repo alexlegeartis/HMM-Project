@@ -260,6 +260,31 @@ Unsupervised:
 \end{itemize}
 \end{frame}
 %----------------------------------------------------------------------------------------------------
+
+\begin{frame}{Additive Smoothing}
+    Lidstone smoothing:
+    \[
+    P_{\text{lidstone}}(w) = \frac{\text{count}(w) + \gamma}{N + \gamma \times V}
+    \]
+
+    where:
+
+    \begin{itemize}
+    \item $\text{count}(w)$ is the raw count of outcome $w$,
+    \item $N = \sum_{x} \text{count}(x)$ is the total number of observations in \texttt{freqdist},
+    \item $V = \texttt{bins}$ is the total number of distinct possible outcomes (e.g., vocabulary size).
+    \end{itemize}
+    Supervised:
+    \begin{itemize}
+        \item $\gamma = 0.1$ for the estimator 
+        \item all train dataset: 95\% test accuracy
+    \end{itemize}
+    Unsupervised:
+    \begin{itemize}
+        \item First 1 000 sentences with tagging, supervised, then all unsupervised. Accuracy = 57\% after 10 iterations.
+    \end{itemize}
+    \end{frame}
+%----------------------------------------------------------------------------------------------------
 %\section{Stock weather forecasting}
 %\begin{frame}{Bull / bear prediction}
 % add your predicted transition states
